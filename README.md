@@ -1,4 +1,3 @@
+# поле Поиск по имени, или по цене или по описанию
 https://evshadrina.github.io/master_class/index.html
 
-#Навигация сендвич
-https://evshadrina.github.io/master_class/index_togler.html
